@@ -1,18 +1,18 @@
-library(devtools)
+#library(devtools)
 library(ggplot2)
-library(ggthemes)
+#library(ggthemes)
 library(plotly)
 library(shiny)
 library(shinydashboard)
 library(DT)
 library(DBI)
-library(RMySQL)
+#library(RMySQL)
 
 #uc<-dbConnect(MySQL(),user="root",
               #password="",dbname="bucky")
 #dat<-dbGetQuery(uc,"SELECT * FROM `table 2`")
 #View(dat)
-setwd("C:/Users/anu/Documents/tydy intern")
+#setwd("Users/anushka/Desktop/tydy intern/codes")
 dat<-read.csv("Watson_Analytics IBM Sample data.csv",header = TRUE,stringsAsFactors = TRUE)
 
 ui<-dashboardPage(skin="red",
