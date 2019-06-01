@@ -13,3 +13,6 @@ shinydashboard
 DT
 
 DBI
+
+## Dataset Used:
+Watson_Analytics IBM Sample data
