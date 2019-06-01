@@ -16,3 +16,7 @@ DBI
 
 ## Dataset Used:
 Watson_Analytics IBM Sample data
+
+## Sample Screenshot
+
+<img src= "sample.png" >
